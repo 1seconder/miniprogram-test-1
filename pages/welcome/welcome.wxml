@@ -1,9 +1,9 @@
 <view class='container'>
-<image src='/images/logo.jpg' class='logo'></image>
-<view class='welcome'>
-<text>welcome</text>
-</view>
-<view class='login'>
-    <button class="weui-btn" type="default">点击进入</button>
-</view>
+  <image src='{{logo}}' class='logo'></image>
+  <view class='welcome'>
+    <text>{{welcome}}</text>
+  </view>
+  <view class='login'>
+    <button bindtap="login" class="weui-btn" type="default">点击进入</button>
+  </view>
 </view>

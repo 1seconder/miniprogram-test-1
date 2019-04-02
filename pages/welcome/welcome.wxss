@@ -1,7 +1,7 @@
 /**welcome.wxss**/
 @import '/weui.wxss';
 
-page{
+page {
   background-color: pink;
 }
 
@@ -13,20 +13,21 @@ page{
   justify-content: space-between;
   padding: 200rpx 0;
   box-sizing: border-box;
-} 
+}
 
-.welcome{
+.welcome {
   margin-top: 400rpx;
   font-size: 32rpx;
   font-weight: bold;
 }
-.logo{
+
+.logo {
   height: 200rpx;
   width: 200rpx;
   border-radius: 100rpx;
 }
 
-.login{
+.login {
   margin-top: 100rpx;
   font-size: 32rpx;
   font-weight: bold;
