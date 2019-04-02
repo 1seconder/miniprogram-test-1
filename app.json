@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/welcome/welcome",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ffc0cb",
+    "navigationBarTitleText": "大大王和小小王",
+    "navigationBarTextStyle":"black"
+  }
+}
